@@ -79,7 +79,7 @@ Users can filter the dashboard data using:
    bash
    streamlit run welcome.py
 
-## App Link :  https://circular-economy-coders-037.streamlit.app/ 
+## App Link :  [https://circular-economy-coders-037.streamlit.app/ ](https://circular-economy-coders.streamlit.app/)
 
 ## Deployment on Streamlit
 This project is deployed on Streamlit Cloud. To deploy your own version:
